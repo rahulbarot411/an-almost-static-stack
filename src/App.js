@@ -17,9 +17,9 @@ const routes = [
     component: Home,
     exact: true
   }, {
-    title: 'About',
-    path: '/about',
-    component: About
+    title: 'rahul',
+    path: '/rahul',
+    component: rahul
   }
 ]
 
