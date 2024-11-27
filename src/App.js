@@ -29,7 +29,7 @@ class App extends Component {
       <Router>
         <Wrapper>
           <Helmet titleTemplate={`%s - ${title}`} />
-          <Title>YADG</Title>
+          <Title>BAROT RAHUL MADANKUMAR</Title>
           <Nav>
             <h1>Navigation</h1>
             {routes.map((route, i) => (
